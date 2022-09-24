@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+    color: #ccc;
+    align-items: center;
+    text-align: center;
+}
+
+.game{
+    width: 20%;
+    border-radius: 1em;
+}
+
+iframe{
+padding: 150px;
+}
+
+.gp{
+    overflow: hidden;
+}
